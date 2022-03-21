@@ -1,2 +1,4 @@
 # Skinsheen
-A website for different types of skin
+A website for skin products
+## Preview 
+![]() 
